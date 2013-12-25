@@ -1,3 +1,3 @@
-class Page < AcvtiveRecord::Base
+class Page < ActiveRecord::Base
 
 end
