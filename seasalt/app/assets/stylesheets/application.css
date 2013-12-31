@@ -126,7 +126,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/bg.jpg) no-repeat center center fixed;
+  background: url(/assets/bg.JPG) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -170,7 +170,7 @@ i.service-icon {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/callout.jpg) no-repeat center center fixed;
+  background: url(/assets/callout.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -237,11 +237,11 @@ i.scroll:hover {
 @media (max-width: 768px) {
 
   .header {
-  background: url(../img/bg.jpg) no-repeat center center scroll;
+  background: url(/assets/bg.JPG) no-repeat center center scroll;
   }
 
   .callout {
-  background: url(../img/callout.jpg) no-repeat center center scroll;
+  background: url(/assets/callout.jpg) no-repeat center center scroll;
   }
 
   .map {
